@@ -5,6 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Catálogo de Downloads - Infofsl Informática</title>
 <style>
+  @font-face{
+    font-family: 'JetBrains Mono Light';
+    src: url('JetBrainsMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-display: swap;
+  }
   :root{
     --bg: #0b0d10;
     --panel: #14171c;
@@ -14,7 +20,7 @@
     --text-dim: #8b93a1;
     --text-faint: #5a6270;
     --mono: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace;
-    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --sans: 'JetBrains Mono Light', 'JetBrains Mono', ui-monospace, monospace;
 
     --c-office: #e8734a;
     --c-project: #3aa876;
@@ -26,6 +32,7 @@
 
   body{
     background: var(--bg);
+    fonte-weight: 300;
     color: var(--text);
     font-family: var(--sans);
     padding: 48px 20px 80px;
