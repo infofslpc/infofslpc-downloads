@@ -5,7 +5,7 @@
 <h1 align="center">Infofsl Downloads</h1>
 
 <p align="center">
-Biblioteca oficial de downloads da Infofls Informática.
+Biblioteca oficial de downloads da Infofsl Informática.
 </p>
 
 <p align="center">
