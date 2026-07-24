@@ -82,5 +82,5 @@ Este projeto está disponível para consulta pública no GitHub.
 ---
 
 <p align="center">
-Desenvolvido com ❤️ por <strong>Infofls Informática</strong>
+Desenvolvido com ❤️ por <strong>Infofsl Informática</strong>
 </p>
