@@ -28,9 +28,10 @@ Biblioteca oficial de downloads da Infofsl Informática.
 
 ## 📥 Sobre o projeto
 
-O **Infofsl Downloads** é um site que reune downloads de softwares que são utilizados por técnicos de informática, empresas e usuários domésticos que vendemos as licenças, e que também podem ser baixados para testes.
+O **Infofsl Downloads** é um site que reúne downloads de softwares que são utilizados por técnicos de informática, empresas e usuários domésticos que vendemos as licenças, e que também podem ser baixados para testes.
 
 Todos os programas são organizados por categorias para facilitar a localização e garantir uma experiência rápida e intuitiva.
+
 
 ---
 
@@ -39,9 +40,9 @@ Todos os programas são organizados por categorias para facilitar a localizaçã
 - Interface rápida e responsiva
 - Organização por categorias
 - Downloads confiáveis
-- Compatível com computadores e dispositivos móveis
 - Atualizações frequentes
 - Hospedado no GitHub Pages
+
 
 ---
 
@@ -51,6 +52,7 @@ Todos os programas são organizados por categorias para facilitar a localizaçã
 - Microsoft Office
 - Outros
 
+
 ---
 
 ## 🌐 Acesse
@@ -58,6 +60,7 @@ Todos os programas são organizados por categorias para facilitar a localizaçã
 **Site Oficial**
 
 https://infofslpc.github.io/infofslpc-downloads/
+
 
 ---
 
@@ -67,6 +70,7 @@ A Infofsl Informática atua há mais de 10 anos oferecendo soluções em tecnolo
 
 ---
 
+
 ## 🤝 Contribuições
 
 Encontrou algum problema ou deseja sugerir um software?
@@ -75,9 +79,12 @@ Abra uma **Issue** ou envie um **Pull Request**.
 
 ---
 
+
 ## 📄 Licença
 
 Este projeto está disponível para consulta pública no GitHub.
+
+
 
 ---
 
