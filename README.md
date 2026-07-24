@@ -9,7 +9,7 @@ Biblioteca oficial de downloads da Infofls Informática.
 </p>
 
 <p align="center">
-  <a href="https://infofslpc.github.io/infofslpc-downloads/">🌐 Acessar o Site</a>
+  <a href="https://infofslpc.github.io/infofslpc-downloads/" target="_blank">🌐 Acessar o Site</a>
 </p>
 <p align="center">
   <a href="https://instagram.com/infofslpc">
